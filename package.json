@@ -3,7 +3,7 @@
   "version": "3.2.0",
   "description": "Demos using MathJax v3 in node",
   "scripts": {
-    "build": "esbuild custom-mathjax.js --bundle --outfile=custom-mathjax.min.js --format=esm"
+    "build": "esbuild custom-mathjax.ts --bundle --outfile=custom-mathjax.min.ts --format=esm"
   },
   "dependencies": {
     "@types/mathjax": "^0.0.40",
