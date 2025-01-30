@@ -42,7 +42,7 @@ The [`puppeteer`](puppeteer) directory contains an example of how to use the [Pu
 In order to try out these examples, clone this repository, enter the directory, and install the dependencies:
 
 ``` bash
-git clone https://github.com/mathjax/MathJax-demos-node.git MathJax-demos-node
+git clone https://github.com/Dinesh-Chandra832/Mathjax-minified-file-repo.git
 cd MathJax-demos-node
 npm install
 ```
